@@ -140,7 +140,7 @@ I classified some questions and topics into Core Software Engineering skills, be
 - Simple Made Easy https://www.infoq.com/presentations/Simple-Made-Easy
 - ... and also the ever-relevant [Domain Driven Design](Domain Driven Design
 https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215) by Eric Evans.
-- Also Steve Yegge's rants, highly opiniated, have been very influential. For example: https://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html
+- Also Steve Yegge's rants, highly opinionated, have been very influential. For example: https://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html
 
 @eagleflow I’ve read http://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/ multiple times. Everyone who is interested in programming language design should read it. tl;dr: there are costs to introducing additional colors of functions to your codebase. Weight the options carefully.
 
